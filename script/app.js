@@ -1,0 +1,1 @@
+function fn(){console.log("sadsd")}var num=11;
